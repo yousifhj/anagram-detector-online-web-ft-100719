@@ -2,6 +2,6 @@
 
 class Anagram 
   
-  def inili
+  def initialize()
   
 end 
